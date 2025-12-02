@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My CV</title>
+<style>
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px; 
+}
+
+h1 {
+    /* Styles for the main name/heading */
+}
+
+h2 {
+    color: #333;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    object-fit: cover; 
+    margin-bottom: 10px;
+}
+
+.header {
+    text-align: center; 
+    /* Center the name, contact, and picture */
+    padding-bottom: 20px;
+    border-bottom: 1px solid #215c6bff; 
+    /* Optional: adds a line under the header */
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+</style>
+
+</head>
+<body>
+
+    <div class="header">
+        <img src="pic.jpg" alt="Profile Picture" class="profile-pic">
+        <h1>Marife Ofalsa Son</h1>
+        <p>Email: marifeson88@gmail.com</p>
+    </div>
+
+    <h2>Summary</h2>
+    <p>
+        I'm Marife Son a student of Bicol University Polangui, studying BS Information System. 
+        A motivated student and eager to apply knowledge and contribute effectively in a professional environment.
+    </p>
+
+
+    <h2>Experience</h2>
+    </ul>
+        <li>Video Editing</li>
+        
+    </ul>
+        <li>Photo Editing</li>
+
+    <h2>Education</h2>
+    <p>BSIS| BUP </p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Cooking</li>
+        <li>Dancing</li>
+        
+    </ul>
+
+</body>
+</html>
